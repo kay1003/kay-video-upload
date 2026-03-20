@@ -1,4 +1,4 @@
-# kay-video-upload
+# kay-video-upload skill
 
 多平台短视频自动发布工具，支持抖音、视频号、快手、小红书、B站。
 
@@ -133,7 +133,3 @@ scripts/
 ## License
 
 MIT
-
-## 致谢
-
-基于 [social-auto-upload](https://github.com/dreammis/social-auto-upload) 的 uploader 模块构建。
